@@ -3,8 +3,7 @@ SQL, Mongodb and JDBC
 
 ## Development Diary
 
-# SQL
-## SQL*Plus & SQL Syntax(Using Oracle)
+### SQL*Plus & SQL Syntax(Using Oracle)
 - Use command below to execute an external sql file:
 
 ```sql
